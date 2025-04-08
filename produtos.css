@@ -16,3 +16,13 @@ nav li{
     width: 940px;
     margin: 0 auto;
 }
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: none;
+}
+nav a:hover{
+    color: #C78C19;
+    text-decoration: underline;
+}
