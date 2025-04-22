@@ -51,23 +51,29 @@ nav a:hover{
 .produtos li:active{
     border-color: #088C19;
 }
+
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
 }
+
 .produto-descrição {
 font-size: 18px;
 }
+
 .produto-preco {
 font-size: 22px;
 font-weight: bold;
 margin-top: 10px;
 }
+
 footer{
     text-align: center;
     background: url("bg.jpg");
     padding: 40px 0;
+    background-color: #000;
 }
+
 .copyringth{
     color: FFFFFF #000;
     font-size: 13px;
